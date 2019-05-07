@@ -1,3 +1,7 @@
+body {
+  background-color: lightgrey;
+}
+
 .btn-default-pink, .btn-default-purple, .btn-default-orange, .btn-default-red, .btn-default-green, .btn-default-blue, .btn-default-white, .btn-default-grey {
   height: 30px;
   width: auto;
@@ -48,6 +52,7 @@
   font-weight: bold;
   border: 0;
 }
+
 .btn-pill-blue {
   background-color: blue;
 }
