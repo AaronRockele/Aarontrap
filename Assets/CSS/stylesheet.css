@@ -1,0 +1,89 @@
+.btn-default-pink, .btn-default-purple, .btn-default-orange, .btn-default-red, .btn-default-green, .btn-default-blue, .btn-default-white, .btn-default-grey {
+  height: 30px;
+  width: auto;
+  color: white;
+  border-radius: 5px;
+  font-weight: bold;
+  border: none;
+}
+
+.btn-default-grey {
+  background-color: grey;
+}
+
+.btn-default-white {
+  background-color: white;
+  color: black;
+}
+
+.btn-default-blue {
+  background-color: blue;
+}
+
+.btn-default-green {
+  background-color: green;
+}
+
+.btn-default-red {
+  background-color: red;
+}
+
+.btn-default-orange {
+  background-color: orange;
+}
+
+.btn-default-purple {
+  background-color: purple;
+}
+
+.btn-default-pink {
+  background-color: pink;
+}
+
+.btn-pill-pink, .btn-pill-purple, .btn-pill-orange, .btn-pill-red, .btn-pill-green, .btn-pill-grey, .btn-pill-white, .btn-pill-blue {
+  height: 30px;
+  width: auto;
+  color: white;
+  border-radius: 25px;
+  font-weight: bold;
+  border: 0;
+}
+.btn-pill-blue {
+  background-color: blue;
+}
+
+.btn-pill-white {
+  background-color: white;
+  color: black;
+}
+
+.btn-pill-grey {
+  background-color: grey;
+}
+
+.btn-pill-green {
+  background-color: green;
+}
+
+.btn-pill-red {
+  background-color: red;
+}
+
+.btn-pill-orange {
+  background-color: orange;
+}
+
+.btn-pill-purple {
+  background-color: purple;
+}
+
+.btn-pill-pink {
+  background-color: pink;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/*# sourceMappingURL=stylesheet.css.map */
